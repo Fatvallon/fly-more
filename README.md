@@ -4,6 +4,6 @@
 
 Ignores flight stamina restrictions
 
-\tera-proxy\node_modules\tera-data\map\protocol.339841
+\tera-proxy\node_modules\tera-data\map\protocol.334245
 
-S_CANT_FLY_ANYMORE = 27872
+S_CANT_FLY_ANYMORE = 59040
